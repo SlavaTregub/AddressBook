@@ -1,0 +1,8 @@
+Adress Book Checklist:
+1. UI is according to design. Consists of 5 options.
+2. Add contact functionality.
+3. Search contact functionality.
+4. Remove contact functionality.
+5. Update contact functionality.
+6. Exit program functionality.
+7. Id generator functionality.
